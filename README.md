@@ -1,24 +1,22 @@
-# vue-task-aitheon
 
-## Project setup
-```
-yarn install
-```
+### Task #1: Vue.js
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+Create a minimal Vue.js SPA application that will implement the following logic:
 
-### Compiles and minifies for production
-```
-yarn build
-```
+		Use this list of posts; place it in the component's data (https://jsonplaceholder.typicode.com/posts)
+		Render the list of posts
+		Application has to pages:
+		
+  1. list of posts: render a list of posts from data
 
-### Lints and fixes files
-```
-yarn lint
-```
+  2. post view: render a specific post data
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Technical Requirements:
+
+		JavaScript or TypeScript
+		Adaptive markup is a plus but not mandatory
+		DO NOT use any UI libraries (like Vuetify)
+
+How to present results:
+
+		Link to the Github repository
