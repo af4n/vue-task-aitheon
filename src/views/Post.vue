@@ -31,9 +31,10 @@
 
 <style scoped lang="scss">
   .post {
+		max-width: 800px;
     border: 1px solid #2c3e50;
     border-radius: 5px;
-    margin-bottom: 10px;
+		margin: 100px auto;
     box-shadow: 1px 1px 6px 1px rgba(0, 0, 0, 0.5);
 
     .title {
